@@ -9,4 +9,6 @@ Using Cadence (Flow blockchain), React and Postgres (not sure if all data can be
 
 [ ] UX - Figma
 
+[ ] User Stories
+
 [ ] TDD
